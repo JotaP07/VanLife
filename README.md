@@ -1,5 +1,5 @@
   # VanLife
-<div>
+<div align="center">
 <img width="348px" height="513px" src="https://github.com/JotaP07/VanLife/blob/main/about-page.png" />
 <img width="398px" height="713px" src="https://github.com/JotaP07/VanLife/blob/main/product-detail.png" />
 </div>
