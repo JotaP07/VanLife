@@ -6,4 +6,15 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Directory structure:
+└── JotaP07-VanLife/
+    ├── README.md
+    ├── LICENSE
+    ├── api.js
+    ├── index.css
+    ├── index.html
+    ├── index.jsx
+    ├── package.json
+    ├── server.js
+    └── vite.config.js
+
